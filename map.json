@@ -209,7 +209,7 @@
                         {
                          "name":"Collides",
                          "type":"bool",
-                         "value":false
+                         "value":true
                         }]
                 }, 
                 {
